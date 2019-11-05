@@ -1,5 +1,7 @@
 <template>
-  $END$
+  <div>
+    <h1>游戏库</h1>
+  </div>
 </template>
 
 <script>
